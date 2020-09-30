@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CykelTcp", "CykelTcp\CykelT
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CykelLib", "CykelLib\CykelLib.csproj", "{AFC7AA95-F134-457A-88B7-5225C42C19AD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CykelClient", "CykelClient\CykelClient.csproj", "{D97B99F9-35F8-477E-B7BF-C8BE1FCCEA81}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{AFC7AA95-F134-457A-88B7-5225C42C19AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AFC7AA95-F134-457A-88B7-5225C42C19AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AFC7AA95-F134-457A-88B7-5225C42C19AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D97B99F9-35F8-477E-B7BF-C8BE1FCCEA81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D97B99F9-35F8-477E-B7BF-C8BE1FCCEA81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D97B99F9-35F8-477E-B7BF-C8BE1FCCEA81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D97B99F9-35F8-477E-B7BF-C8BE1FCCEA81}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
