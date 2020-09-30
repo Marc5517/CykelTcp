@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30517.126
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CykelTcp", "CykelTcp\CykelTcp.csproj", "{B4283747-EED4-4FA8-87BF-92E5DEFDC3DD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CykelLib", "CykelLib\CykelLib.csproj", "{AFC7AA95-F134-457A-88B7-5225C42C19AD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{B4283747-EED4-4FA8-87BF-92E5DEFDC3DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B4283747-EED4-4FA8-87BF-92E5DEFDC3DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B4283747-EED4-4FA8-87BF-92E5DEFDC3DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFC7AA95-F134-457A-88B7-5225C42C19AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFC7AA95-F134-457A-88B7-5225C42C19AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFC7AA95-F134-457A-88B7-5225C42C19AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFC7AA95-F134-457A-88B7-5225C42C19AD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
